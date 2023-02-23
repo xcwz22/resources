@@ -1,0 +1,16 @@
+{
+    "config" : [
+        {
+            "network" : "admob",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+            "admob_rewarded": "ca-app-pub-3940256099942544/5224354917",
+            
+            "ico": "https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/ae/5f/0a/ae5f0a8d-810f-59a6-dd2c-0aa56ccf63e8/source/512x512bb.jpg",
+            
+            "game_link" : "https://html5.gamedistribution.com/rvvASMiM/0810aaddf4ec4f1caf87023fab13a970/index.html?gdpr-tracking=0&gdpr-targeting=0&gdpr-third-party=0&gd_sdk_referrer_url=https%3A%2F%2Fgamedistribution.com%2Fgames%2Fstack-colors-2&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL2dhbWVkaXN0cmlidXRpb24uY29tL2dhbWVzL3N0YWNrLWNvbG9ycy0yIiwicGFyZW50RG9tYWluIjoiZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJ0b3BEb21haW4iOiJnYW1lZGlzdHJpYnV0aW9uLmNvbSIsImhhc0ltcHJlc3Npb24iOmZhbHNlLCJsb2FkZXJFbmFibGVkIjp0cnVlLCJob3N0IjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJ2ZXJzaW9uIjoiMS41LjE2In0%253D"
+        }
+    ]
+}
