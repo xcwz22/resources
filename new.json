@@ -3,10 +3,10 @@
         {
             "network" : "admob",
             
-            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
-            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
-            "admob_int": "ca-app-pub-3940256099942544/1033173712",
-            "admob_rewarded": "ca-app-pub-3940256099942544/5224354917",
+            "admob_ban": "ca-app-pub-7539087638646987/5411129221",
+            "admob_native" : "ca-app-pub-7539087638646987/3331760796",
+            "admob_int": "ca-app-pub-7539087638646987/8775659162",
+            "admob_rewarded": "ca-app-pub-7539087638646987/4105786415",
             
             "ico": "https://github.com/myrules1/resources/raw/main/top.jpg",
             
